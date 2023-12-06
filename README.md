@@ -16,10 +16,10 @@ I'm a QA Engineer with over 2 years of experience in both manual and automated t
 - Regression Testing
 
 ## Projects (Demo)
-### [Rozetka checks]
-A brief description of the project and your contributions.
+### [Online store checks]
+Here you can find Smoke tests
 
-[Link to repository or project]
+(https://github.com/VikVolSen/OnlineStoreTests/tree/main)
 
 
 ## Certificates and Achievements
@@ -32,11 +32,14 @@ QATestLab Training Center
 - Email: vikvolsen@gmail.com
 
 
-## Code Samples
-```JS
-public class SampleTest {
-    @Test
-    public void sampleTestMethod() {
-        // Your automated test code here
-    }
-}
+## Test case sample
+
+https://docs.google.com/spreadsheets/d/1Y9cSX-xmpaLvJLkfKUJR4HfkM0WpQj6rQ2PyVI8GKPs/edit?usp=sharing
+
+## Checklist sample
+
+https://docs.google.com/spreadsheets/d/1eGEstyWQoE7FWJsO6zZjxBEv3Kk4C2gkyCC27wo3TDc/edit#gid=0
+
+## Bug report sample
+
+https://docs.google.com/spreadsheets/d/1tji8HmQwuYnSShjJbuF6uaHJ_YUlimP1HSiiqI7YGII/edit?usp=sharing
